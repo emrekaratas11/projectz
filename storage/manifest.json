@@ -1,0 +1,77 @@
+{
+  "version": "1.0",
+  "updatedAt": "2026-10-28T16:35:00Z",
+  "storagePath": "storage/photos/",
+  "photos": [
+    {
+      "photoId": "p-demo-01",
+      "weddingCode": "ayse-mehmet",
+      "weddingName": "Ayşe & Mehmet",
+      "uploaderName": "Ahmet Yılmaz",
+      "uploaderNick": "ahmet_yilmaz_48",
+      "uploaderRole": "guest",
+      "fileName": "ilk-dans.jpg",
+      "fullPath": "storage/photos/ayse-mehmet/full/p-demo-01.jpg",
+      "thumbPath": "storage/photos/ayse-mehmet/thumbs/p-demo-01_thumb.jpg",
+      "fileSize": 2450800,
+      "mimeType": "image/jpeg",
+      "isDeleted": false,
+      "deletedBy": null,
+      "deletedAt": null,
+      "uploadedAt": "2026-10-28T14:20:00Z"
+    },
+    {
+      "photoId": "p-demo-02",
+      "weddingCode": "ayse-mehmet",
+      "weddingName": "Ayşe & Mehmet",
+      "uploaderName": "Ahmet Yılmaz",
+      "uploaderNick": "ahmet_yilmaz_48",
+      "uploaderRole": "guest",
+      "fileName": "pasta-kesimi.jpg",
+      "fullPath": "storage/photos/ayse-mehmet/full/p-demo-02.jpg",
+      "thumbPath": "storage/photos/ayse-mehmet/thumbs/p-demo-02_thumb.jpg",
+      "fileSize": 1980400,
+      "mimeType": "image/jpeg",
+      "isDeleted": false,
+      "deletedBy": null,
+      "deletedAt": null,
+      "uploadedAt": "2026-10-28T14:22:00Z"
+    },
+    {
+      "photoId": "p-demo-03",
+      "weddingCode": "ayse-mehmet",
+      "weddingName": "Ayşe & Mehmet",
+      "uploaderName": "Selin Kaya",
+      "uploaderNick": "selin_kaya_85",
+      "uploaderRole": "guest",
+      "fileName": "nikah-masasi.jpg",
+      "fullPath": "storage/photos/ayse-mehmet/full/p-demo-03.jpg",
+      "thumbPath": "storage/photos/ayse-mehmet/thumbs/p-demo-03_thumb.jpg",
+      "fileSize": 3120000,
+      "mimeType": "image/jpeg",
+      "isDeleted": false,
+      "deletedBy": null,
+      "deletedAt": null,
+      "uploadedAt": "2026-10-28T14:45:00Z"
+    },
+    {
+      "photoId": "p-demo-04",
+      "weddingCode": "ayse-mehmet",
+      "weddingName": "Ayşe & Mehmet",
+      "uploaderName": "Can Demir",
+      "uploaderNick": "can_demir_22",
+      "uploaderRole": "guest",
+      "fileName": "arkadaslar.jpg",
+      "fullPath": "storage/photos/ayse-mehmet/full/p-demo-04.jpg",
+      "thumbPath": "storage/photos/ayse-mehmet/thumbs/p-demo-04_thumb.jpg",
+      "fileSize": 1850600,
+      "mimeType": "image/jpeg",
+      "isDeleted": true,
+      "deletedBy": "Gelin (Ayşe)",
+      "deletedAt": "2026-10-28T15:00:00Z",
+      "uploadedAt": "2026-10-28T14:50:00Z",
+      "retentionReason": "UC-7 Soft Delete - Gizlendi, Arşivde Korunuyor"
+    }
+  ]
+}
+

@@ -1,0 +1,64 @@
+- ==UC-1== - Sistem olarak, davetlilerden gelen fotograflari saklamak istiyorum, o sebeple ssd kaydediyorum
+  - stories :
+    - ben mahmut, fotografciyim, uygulamada foto yukle kismina geldim , ama fotograflar benim kameramda duruyor bunu senin sistemine atmak istiyorum, bu sirada ilk gidip bilgisayarima atacaksam sonra da senin sistemine atacaksam bu ekstra bir is bunu neden yapayim ki bunun yerine sen bunu kolaylastirsan cok kolay olurdu ve benim yonetimim daha kolay olurdu sen en iyisi bir kac sistem yaz bununla ilgili. kameradan direkt sistemin databasesine otoban cek.
+  - sistem davetlilerden gerekli miktarda fotograf alabilir, saklayabilir, organize edebilir
+- ==UC-2 ==- Sistem olarak, davetlilerden geleen fotograflari ayni zamanda cloud saklamak istiyorum o sebeple internetteki sunucumuza yukluyorum
+- ==UC-3== - sistem olarak saklamalarimizi yonetmek istiyorum o sebeple yaptigim islemleri databaseye kaydediyorum
+- ==UC-4 ==- sistem olarak, ben davetliler tarafından yüklenen çıplaklık içeren fotograflari tararim ve sansurlerim 
+- ==UC-5==- sistem olarak, davetlilerin yüzlerini tanımak istiyorum  o sebeple yüz tanıma algtoritması kullanıyorum
+- ==UC 5.1==- ==yüz tanıma algoritması== olarak fotoğraf kategarizasyonunda katkıda bulunmak için yüz tanıyabilirim
+- ==UC-6==- sistem olarak fotoğraflarını isteyen davetliere fotoğraflarını iletmek isteyorum bu sebeble yüz tanıma algoritmasının yardımıyla davetlilere kendi fotoğraflarını iletiyorum 
+- ==UC-7==- sistem olarak gelinin yada otokontrolün sildiği resimleri tutmak istiyorum kullanicilara erisimi kesiyoruz. *update later
+- ==UC-8== - sistem olarak dükkan sahibine yardımcı olmak istiyorum bu yüzden genc erkek uzun sac kisa sac gibi etiketler fotograflarda olur
+- ==UC - 9==- sistem olarak daha hızlı ve efektif olmak için çekilen resimlerin hem yüksek hem düşük kaliteli halini sistemde barındıryorum
+- ==UC - 10==- sistem olarak daha hızlı ve efektif olmak istiyorum bu yüzden dusuk kalitede arama yapabilir ve fotograflarin yuksek kalite haline aramadan sonra ulasip saklama ve dagitma islemlerini yapabiliriz - etiket arama isim soyisim arama en normali ama gerekirse diye belki yuz tanima aramasi atilabilir
+  - arama yapaagimiz alani daraltmak icin filtre uygulanabilir
+- ==UC - 11== - davetli olarak bana gonderilen linkten basitce sadece isim soyisim girerek 
+  - ab testing, ilk foto mu ilk isim mi
+  - (ilk basta degil biraz bag kurmak icin isim sormayi daha sonra fotograf yukleme arasinda yada en sonunda sorabiliiriz. 
+    - telefon marka modelinden hangisi olduugnu tahminleyebiliriz 
+- ==UC- 11.1==-davetlinin fotoğrafları yüz tanıma yardımı ile belirlenip kendisine iletilir (z) (fotograflarim nerede problemi)
+- ==UC12 ==- düğün sahipleri olarak, bazi fotograflari silmek istiyorum, gidip silerim 
+- ==UC13== - fotoğrafcı olarakfotorafın çıktısını almak istiyorum, fotografi secip yazdira basarim
+- ==UC13== - fotoğrafcı olarakfotorafın toplu çıktı almak istiyorum, fotograflari toplu secip yazdira basarim
+- ==uc14== - fotografci olarak kayit olmak istiyorum, register icine bilgilerimi yazarim sifre belirlerim
+- ==uc15== - fotografci olarak dugun olusturmak istiyorum bunun icin onay da istiyorum o sebeple dugun sahiplerine gonderdigim linkten bize kayit olsunlar
+- ==uc16== - fotografci olarak sadece eger sagdicla muhattapsam sonra da onu oyle yaparim
+- ==uc17== - fotografci olarak gelin damat daha sonra gormek isterse eger o zaman onlara kisa sifrelerini veririm yada kendileri gelir girerler, sagdictan da bu linki alabilirler ama gelin damat onayini benim vermem daha iyi olabilir gelin damat tel no alalim onlara sms gonderelim sms onayi icin de biseyler yapalim 
+- ==uc18 ==- sistem olarak hataların ve art niyetlerin önüne geçmek için tek seferde 50? fotoğraf yükleme limit koydum
+- ==uc19 ==- sistem olarak  davetlilerin fotoğraflarını iletmek istiyorum bü yüzden ==isteğe bağlı== telefon numası aldım
+- ==uc20 -== sistem olarak dynamic link urettim bu sayede kim hangi referansla geldi gordum
+  - sistemi kirmaya calisan kisileri de tespit edebildim
+- uc21 - sistem olarak, veri labellamak isteyen geline yardimci olacak mod actim, bu kim diye sordum, ali veli biseyler dedi, zaten foto yukleyenler arasinda da iliski tablosu olusturdugum icin anlamli sorular soracagim, bu ali mi sorusunu akilli bir sekilde sorarak devam edecegim.
+- ==uc22== - sistem olarak geline ve damada onerdim, sordu > bizim onerdigimiz kisiyle gidip foto cekilsin belki orada tersten label olur, ali ile foto cekil > tamam > koydu foto = ali
+- ==uc23==- davetli olarak fotoğraf eklemek istedim bu yüzden fotoğraf ekleme menüsündeki fotoğraf ekle butonuna bastım 
+- ==uc24==- davetli olarak fotoğraf eklemek istedim bu yüzden galeri alanından fotoğraflarlara tıklayarak fotoğrafları seçtim
+- ==uc 25 ==davetli olarak fotoğraf eklemek istedim seçtiğim fotoğrafları  ekle butonuna basarak ekledim 
+- ==uc26== davetli olarak yanlış fotoğraf seçtim  seçtiğim fotoğrafa tekrar tıklayarak seçtiğim fotoğrafları iptal ettim 
+- ==uc27== davetli olarak yanlış fotoğraf seçtim seçtiğim tüm fotoğrafları iptal etmek için iptal butonuna bastım 
+- ==uc28 düğün sahibi olarak fotoğraf eklemek istedim  düğün sahibi menüsünden fotoğraf ekleye tıkladım ==
+- uc29 düğün sahibi olarak fotoğraf eklemek istedim bu yüzden galeri alanından fotoğraflarlara tıklayarak fotoğrafları seçtim
+- ==uc 30 düğün sahibi olarak fotoğraf eklemek istedim seçtiğim fotoğrafları  ekle butonuna basarak ekledim ==
+- ==uc31 düğün sahibi olarak  olarak yanlış fotoğraf seçtim  seçtiğim fotoğrafa tekrar tıklayarak seçtiğim fotoğrafları iptal ettim ==
+- ==uc32 düğün sahibi olarak yanlış fotoğraf seçtim seçtiğim tüm fotoğrafları iptal etmek için iptal butonuna bastım==
+- ==uc33== düğün sahibi olarak çekilen fotoğraflara bakmak istedim bu yüzden düğün sahibi ekrandan galeriye girdim
+- ==uc34== düğün sahibi olarak fotoğraf indirmek istedim bu yüzden galeri alanından fotoğraflarlara tıklayarak fotoğrafları seçtim
+- ==uc35== düğün sahibi olarak fotoğraf indirmek istedim bu yüzden galeri alanından seçitiğim fotoğrafları indir butonuna tıklayarak fotoğrafları indirdim
+- ==uc36==  düğün sahibi olarak tüm fotoğrafları indirmek istedim bu yüzden galeri alanından heğsini seç butuonuna tıkladım 
+- ==uc37==  düğün sahibi olarak tüm fotoğrafları silmek  istedim bu yüzden galeri alanından seçtiğim fotoğrafları indir butonundan sildim 
+- ==uc 38== davetli olarak fotoynetim sistemine girmek istedim bana iletilen linki kullanarak davetli olarak olarak fotoynetim sistemine giriş yaptım 
+- ==uc 39 ==dadvetli olarak  fotoynetim sistemine girmek istedim QR sistemini kullanarak davetli olarak olarak fotoynetim sistemine giriş yaptım 
+- ==uc 40== sistem davetlinin yüklediği fotolardan yüz tanıması yapar
+- ==uc 41== sistem davetlinin yüklediği fotoraflardan yola çıkarak galerideki ilgili fotoğrafları davetliye gönderir
+  - alternatifler: bildirim , sms 
+- ==uc 42== davetli olarak kendi yukledigim fotograflari , kendi galerimde gormek isterim o sebeple galeriye girerim
+- ==uc 43== davetli olarak benim icinde bulundugum fotograflarin bana iletilmesini isterim, bildirimle iletildigini gorebilirim (sms, bildirim)
+
+
+
+bu uc ler aslinda stories sanirim, hangi kullanici neleri yapabilir kendi agzindan soyluyor gibi olmaliydi sanirim biraz hatali bir dil kullanimi var epics icinde birlestir yeniden yaz ve stories , main sceanrios, alternative scenarios hepsini yaz verilmesi gereken genel his ise su 
+
+- cektigimiz her fotograf, her video saklaniyor hissi, cekelim ve saklansin. ani olarak kalacagindan eminiz.
+- gelin> herkes : fotolari buna atin foto saklama hizmeti veriyolar.
+- gelin> kim geldi kim gelmedi bunlarin takibini yapabilir buradan gelecek olanlarin isimlerini telefon numarasi uzerinden rehbere kayit falan ordan bulunabilir, araya isimler atilabilir, kac kisi gelecek hesabini daha kolay yaparlar.
+- iletisim stratejisi olarak bizim ilk gelenlere de konusmamiz gerekiyor ki ne oldugumuz bizi daha sonra nelerde kullanacaklarini gorsunler. [dugun.fotoyonetim.com](http://dugun.fotoyonetim.com/) 
